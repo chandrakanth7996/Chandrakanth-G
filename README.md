@@ -1,9 +1,9 @@
 👋 Hi there! I’m CHANDRAKANTH G, and Thank you for visiting to my profile  🙏
 
-1️⃣ BackEnd Developer Extraordinaire✏️  
+1️⃣ Java Fullstack Extraordinaire✏️  
 Currently diving deep into the world of coding!
 
-2️⃣ Java & SpringBoot Enthusiast🎯  
+2️⃣ Java,SpringBoot & Angular Enthusiast🎯  
 You’ll often find me debugging and experimenting. When I’m not coding, I’m playing sports or enjoying some well-deserved sleep!😇
 
 3️⃣ Opportunity Seeker🌀  
