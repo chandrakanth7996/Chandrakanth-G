@@ -10,4 +10,4 @@ You’ll often find me debugging and experimenting. When I’m not coding, I’m
 Always on the lookout for exciting chances that align with my goals. DM me on [LinkedIn](https://www.linkedin.com/in/chandrakanth-g-b97999173/) to connect!🙌
 
 4️⃣ Let’s Connect!📢  
-Join me on [LinkedIn](https://www.linkedin.com/in/chandrakanth-g-b97999173/) ,https://medium.com/@chandrakanth7996 and [LeetCode](https://leetcode.com/u/chandrakanth7996/) for more tech discussions✌️
+Join me on [LinkedIn](https://www.linkedin.com/in/chandrakanth-g-b97999173/) , [Medium] https://medium.com/@chandrakanth7996 and [LeetCode](https://leetcode.com/u/chandrakanth7996/) for more tech discussions✌️
